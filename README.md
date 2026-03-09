@@ -1,2 +1,2 @@
 # lab-redes-01
-![GitHub License](https://img.shields.io/github/license/SaraPOliveira/lab-redes-01?style=for-the-badge)
+<img src="https://img.shields.io/badge/license-MIT-purple">
