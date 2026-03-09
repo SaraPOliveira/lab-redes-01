@@ -1,5 +1,5 @@
 
-<img src="[https://img.shields.io/badge/license-MIT-purple](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)">
+<img src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge">
 
 # lab-redes-01
 
