@@ -1,4 +1,3 @@
-
 <img src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge">
 
 # lab-redes-01
@@ -22,5 +21,14 @@ O projeto será dividido em duas etapas:
 1. Simulação da rede no Cisco Packet Tracer
 2. Implementação da rede no labotório real
    
+---
+
+## 2. Equipamentos Utilizados nesse laboratório:
+
+- 3 Notebooks
+- 1 Roteador Wireless com 1 porta WAN e 4 portas LAN
+- 1 Impressora de Rede
+- Cabos de rede
+
 ---
 
