@@ -57,4 +57,4 @@ Router --> |LAN 4| Printer
 ```
 
                                              Imagem da Topologia usada neste laboratório
-![Topologia]()
+![Topologia](Topologia.png)
