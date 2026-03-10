@@ -80,3 +80,30 @@ Gateway: 192.168.0.1
 - O roteador sempre atribui o mesmo endereço de IP a esses dispositivos.
 
 ---
+
+## 5. Implementação do laboratório real
+
+Após a instalação, a rede foi montada fisícamente no laboratório.
+
+Etapas realizadas:
+
+(fotos e capturas de tela realizadas durante o laboratório)
+
+Testes:
+
+(fotos e capturas de tela realizadas durante o laboratório)
+
+---
+
+## 6. Conclusão
+
+Este laboratório permitiu compreender o funcionamento de uma rede local simples, incluindo:
+
+- Estrutura de uam rede doméstica ou de pequeno escriitório (rede local)
+- Utilização de um roteador com parta WAN e portas LAN
+- Funcionamento DHCP
+- Comunicação entre dispositivos na rede local
+- Utilização de uma impressora de rede
+- Compartilhamento da pasta na rede usando o Windows
+- Jogos em redes locais
+
