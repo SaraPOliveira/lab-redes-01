@@ -60,3 +60,23 @@ Router --> |LAN 4| Printer
   <img src="https://github.com/user-attachments/assets/adcc9422-7d98-4281-b80c-c90097101de2" alt="Topologia" width="782">
 </p>
 
+## 4. Plano de endereçamento IP
+
+Rede: 192.168.0.0/24
+
+Gateway: 192.168.0.1
+
+| Dispositivo | Tipo de IP | Endereço IP | Observação |
+|-------------|------------|-------------|------------|
+| Roteador | Estático | 192.168.0.1 | IP do Roteador |
+| Impressora | Reserva DHCP | 192.168.0.105 | IP Reservado pelo roteador |
+| PC1 | Reserva DHCP | 192.168.0.103 | IP Reservado pelo roteador |
+| PC2 | DHCP | Automático | IP Reservado pelo roteador |
+| PC3 | DHCP | Automático | IP atribuído pelo roteador |
+
+**Observação**
+
+- A impressora e um dos notebooks utilizam reserva DHCP.
+- O roteador sempre atribui o mesmo endereço de IP a esses dispositivos.
+
+---
