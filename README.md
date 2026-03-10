@@ -81,21 +81,7 @@ Gateway: 192.168.0.1
 
 ---
 
-## 5. Implementação do laboratório real
-
-Após a instalação, a rede foi montada fisícamente no laboratório.
-
-Etapas realizadas:
-
-(fotos e capturas de tela realizadas durante o laboratório)
-
-Testes:
-
-(fotos e capturas de tela realizadas durante o laboratório)
-
----
-
-## 6. Conclusão
+## 5. Conclusão
 
 Este laboratório permitiu compreender o funcionamento de uma rede local simples, incluindo:
 
